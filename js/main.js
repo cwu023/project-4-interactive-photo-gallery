@@ -1,3 +1,9 @@
+//lightbox2 options
+lightbox.option({
+      'wrapAround': true,
+      'showImageNumberLabel': false
+    })
+
 //Get input element
 let filter = document.getElementById('filter');
 
